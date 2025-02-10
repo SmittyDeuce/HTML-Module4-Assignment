@@ -1,5 +1,4 @@
-# HTML-Module4-Assignment
-
+# Module 4 HTML Assignment
 
 ## Overview
 This project is a basic HTML webpage demonstrating the use of forms, tables, navigation bars, and images. It follows the assignment requirements to create a structured and semantic HTML5 document.
